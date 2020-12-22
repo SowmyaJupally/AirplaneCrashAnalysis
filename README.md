@@ -40,7 +40,7 @@ Bar graph is plotted for fatalities on each accident for every airline. The fata
 
 
 #### Accident Trends
-Accidents gradually increased over 1908 to 1970 and there is gradual decrease in flight accidents till today. while comparing the fatalities and accidents, the interesting scenario which was observed in the below graphs is the ratio of fatalities to accidents is equally distributed in both the graphs except during the time period 1940 - 1960, the number of fatalities are less compared to the number of accidents in that period of time.
+Accidents gradually increased over 1908 to 1970 and there is gradual decrease in flight accidents till today. while comparing the fatalities and accidents, the interesting scenario which was observed in the below graphs is the ratio of fatalities to accidents is equally distributed in both the graphs except during the time period 1940 - 1960, the number of fatalities are less when compared to the number of accidents in that period of time.
 
 ![](https://github.com/sandeepreddyb253/CMPE255-AirplaneCrash/blob/main/Images/Accidents%20per%20Year.png)
 

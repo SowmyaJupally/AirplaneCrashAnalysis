@@ -1,10 +1,4 @@
-## CMPE255-Statistics of Airplane Crash Data
-
-## Team Members
-1. Sowmya Jupally 
-2. Laxmi Prasanna Palle
-3. Sandeep Reddy Bhimireddy
-4. Sai Krishna Nandikonda
+Statistics of Airplane Crash Data
  
 ### 1) Project title
  Statistics of airplane crash data 
